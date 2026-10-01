@@ -1,0 +1,66 @@
+Audit General Ledger,دفتر الأستاذ العام مع سجل التدقيق
+Show Created By,إظهار أنشئ بواسطة
+Show Created On,إظهار تاريخ الإنشاء
+Show Modified By,إظهار عُدّل بواسطة
+Show Modified On,إظهار تاريخ التعديل
+Show Submitted By / On,إظهار المعتمِد وتاريخ الاعتماد
+Show Cancelled By / On,إظهار الملغي وتاريخ الإلغاء
+Show GL Entry Audit Stamps,إظهار بيانات تدقيق قيود الأستاذ
+Show Complete Activity,إظهار النشاط الكامل
+Only Vouchers Edited After Submit,السندات المعدلة بعد الاعتماد فقط
+Created By (User),أنشئ بواسطة (المستخدم)
+Modified By (User),عُدّل بواسطة (المستخدم)
+Submitted By (User),اعتمد بواسطة (المستخدم)
+Modified From,معدّل من تاريخ
+Modified To,معدّل إلى تاريخ
+Add GL Entry Columns,إضافة أعمدة من قيد الأستاذ
+Add Voucher Columns,إضافة أعمدة من السند
+Hidden Columns,الأعمدة المخفية
+Created By,أنشئ بواسطة
+Created On,تاريخ الإنشاء
+Modified By,عُدّل بواسطة
+Modified On,تاريخ التعديل
+Document Status,حالة المستند
+Submitted By,اعتمد بواسطة
+Submitted On,تاريخ الاعتماد
+Cancelled By,أُلغي بواسطة
+Cancelled On,تاريخ الإلغاء
+GL Posted By,رُحّل القيد بواسطة
+GL Posted On,تاريخ ترحيل القيد
+GL Modified By,عُدّل القيد بواسطة
+GL Modified On,تاريخ تعديل القيد
+GL Cancelled,القيد ملغى
+Complete Activity,النشاط الكامل
+Activity Events,عدد الأحداث
+Edits After Submit,تعديلات بعد الاعتماد
+Last Activity By,آخر نشاط بواسطة
+Last Activity On,تاريخ آخر نشاط
+Amended From,معدّل من
+Show / Hide Columns,إظهار / إخفاء الأعمدة
+Show All,إظهار الكل
+Apply,تطبيق
+Audit,التدقيق
+Export,تصدير
+Excel,إكسل
+Open Document,فتح المستند
+Download CSV,تنزيل CSV
+View complete activity,عرض النشاط الكامل
+No activity recorded,لا يوجد نشاط مسجل
+When,الوقت
+User,المستخدم
+Event,الحدث
+Details,التفاصيل
+Created,تم الإنشاء
+Edited,تم التعديل
+Edited after submit,عُدّل بعد الاعتماد
+Submitted,معتمد
+Cancelled,ملغى
+Draft,مسودة
+Last Modified,آخر تعديل
+GL entries posted,تم ترحيل قيود الأستاذ
+GL Rows,سطور القيود
+Amendments,التعديلات
+Viewed,تمت المشاهدة
+Voucher,السند
+GL,القيد
+Total,الإجمالي
